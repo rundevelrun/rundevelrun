@@ -21,7 +21,3 @@
 
 
 
-## 📝 Blog
-* :link: [RUN:DEVEL:RUN](https://6developer.com)
-
-
