@@ -3,9 +3,7 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rundevelrun/count.svg?"  />
-</div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rundevelrun)
 
 <br/>
 <br/>
